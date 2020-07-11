@@ -1,0 +1,14 @@
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+}
+body{
+    background-color: #f0f0f0;
+}
+
+.prefix_icon{
+    margin-right: 5px
+}
+.login-button{
+    margin:0 auto;
+}
