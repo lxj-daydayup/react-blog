@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.23.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cra-template": "1.0.3",
     "highlight.js": "^10.1.1",
     "marked": "^1.1.0",
